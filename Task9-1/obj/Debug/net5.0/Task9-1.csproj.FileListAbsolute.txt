@@ -1,0 +1,16 @@
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.exe
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.deps.json
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.runtimeconfig.json
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.runtimeconfig.dev.json
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.dll
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\ref\Task9-1.dll
+C:\Users\Hozan-Batan\source\repos\Task9-1\bin\Debug\net5.0\Task9-1.pdb
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.csproj.AssemblyReference.cache
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.AssemblyInfoInputs.cache
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.AssemblyInfo.cs
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.csproj.CoreCompileInputs.cache
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.dll
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\ref\Task9-1.dll
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.pdb
+C:\Users\Hozan-Batan\source\repos\Task9-1\obj\Debug\net5.0\Task9-1.genruntimeconfig.cache
